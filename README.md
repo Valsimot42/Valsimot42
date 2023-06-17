@@ -9,16 +9,16 @@ Further down you will see my current progress at 42, tackling projects in C/C++ 
 ___
 
 
-| Project   | Circle  | Description     | Score    | Language |
-|-----------|:-------:|-----------------|:--------:|:--------:|
+| Project| Circle  | Description     | Score    | Language |
+|--------|:-------:|-----------------|:--------:|:--------:|
 |Minishell|-(3)-|Creation of Bash shell functionalities|100/100|C|
 |Pipex|-(2)-|UNIX redirections and pipes| 115/100| C|
 |Push_swap|-(2)-|Sorting algorythm|100/100|C|
 |Fract-ol|-(2)-|2D creation of fractols, using minilibx|101/100|C|
-|Born2beroot|-(1)-|Virtual machine|110/100| |
+|Born2beroot|-(1)-|Virtual machine|110/100|/|
 |Get_next_line|-(1)-|Reading from a file descriptor|125/100|C|
-|Ft_printf  |-(1)-    |Recreation of printf function|100/100|C|
-|Libft      |-(0)-    |First Library    |100/100   |C         |
+|Ft_printf|-(1)-|Recreation of printf function|100/100|C|
+|[Libft](https://github.com/Valsimot42/Libft)|-(0)-|First Library|100/100|C|
 
 ___
 
