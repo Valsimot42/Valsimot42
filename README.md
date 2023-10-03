@@ -14,7 +14,7 @@ ___
 |Minishell|-(3)-|Creation of Bash shell functionalities|100/100|C|
 |Pipex|-(2)-|UNIX redirections and pipes| 115/100| C|
 |Push_swap|-(2)-|Sorting algorythm|100/100|C|
-|Fract-ol|-(2)-|2D creation of fractols, using minilibx|101/100|C|
+|[Fract-ol](https://github.com/Valsimot42/Fract-ol)|-(2)-|2D creation of fractols, using minilibx|101/100|C|
 |[Born2beroot](https://github.com/Valsimot42/42_born2beroot)|-(1)-|Virtual machine|110/100|/|
 |[Get_next_line](https://github.com/Valsimot42/GNL)|-(1)-|Reading from a file descriptor|125/100|C|
 |[Ft_printf](https://github.com/Valsimot42/ft_printf)|-(1)-|Recreation of printf function|100/100|C|
