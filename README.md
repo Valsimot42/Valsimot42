@@ -12,8 +12,8 @@ ___
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
 |Minishell|-(3)-|Creation of Bash shell functionalities|100/100|C|
-|Pipex|-(2)-|UNIX redirections and pipes| 115/100| C|
-|Push_swap|-(2)-|Sorting algorythm|100/100|C|
+|[Pipex](https://github.com/Valsimot42/Pipex)|-(2)-|UNIX redirections and pipes| 115/100| C|
+|[Push_swap](https://github.com/Valsimot42/Push_Swap)|-(2)-|Sorting algorythm|100/100|C|
 |[Fract-ol](https://github.com/Valsimot42/Fract-ol)|-(2)-|2D creation of fractols, using minilibx|101/100|C|
 |[Born2beroot](https://github.com/Valsimot42/42_born2beroot)|-(1)-|Virtual machine|110/100|/|
 |[Get_next_line](https://github.com/Valsimot42/GNL)|-(1)-|Reading from a file descriptor|125/100|C|
