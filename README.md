@@ -11,7 +11,7 @@ ___
 
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
-|CPP|-(4)-|Basics of C++| /100|C++|
+|CPP 00-04|-(4)-|Basics of C++| /100|C++|
 |Cub3d|-(4)-|Raycasting|115/100|C|
 |NetPractice|-(4)-|Networking, TCP/IP|100/100|/|
 |Philosophers|-(3)-|Manipulating threads|100/100|C|
