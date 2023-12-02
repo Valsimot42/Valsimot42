@@ -14,7 +14,7 @@ ___
 |CPP 00-04|-(4)-|Basics of C++| /100|C++|
 |Cub3d|-(4)-|Raycasting|115/100|C|
 |NetPractice|-(4)-|Networking, TCP/IP|100/100|/|
-|Philosophers|-(3)-|Manipulating threads|100/100|C|
+|[Philosophers](https://github.com/Valsimot42/42_philosophers)|-(3)-|Manipulating threads|100/100|C|
 |[Minishell](https://github.com/Valsimot42/minishell)|-(3)-|Creation of Bash shell functionalities|100/100|C|
 |[Pipex](https://github.com/Valsimot42/Pipex)|-(2)-|UNIX redirections and pipes|115/100| C|
 |[Push_swap](https://github.com/Valsimot42/Push_Swap)|-(2)-|Sorting algorythm|100/100|C|
