@@ -11,7 +11,7 @@ ___
 
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
-|CPP 00-04|-(4)-|Basics of C++| /100|C++|
+|[CPP_modules](https://github.com/Valsimot42/42_CPP_Modules/tree/master)|-(4/5)-|Basics of C++| /100|C++|
 |[Cub3d](https://github.com/Valsimot42/42_cub3d)|-(4)-|Raycasting|115/100|C|
 |NetPractice|-(4)-|Networking, TCP/IP|100/100|/|
 |[Philosophers](https://github.com/Valsimot42/42_philosophers)|-(3)-|Manipulating threads|100/100|C|
