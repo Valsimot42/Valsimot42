@@ -1,13 +1,29 @@
-<p align="left">Hi, my name is Tomislav, welcome to my Repository page!
+## About me:
 
-I have started coding when I enrolled to 42 Wolfsburg in April 2022. I have economic background, having graduated economic highschool, and attended college for three years. In the same field I have work experience in accounting and marketing branches.
+* Started coding in April 2022.
+* Residing in Germany.
+* Economic background (marketing, accounting).
+* Experienced in C/C++, aspiring to learn more.
 
-Further down you will see my current progress at 42, tackling projects in C/C++ and learning as much as I can before applying for a position of a software developer.</p>
+Get in contact with me here:</p> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomislav-bolkovac-223245245/)
 
-<h2 align="left">42 WOLFSBURG: Common core projects</h2>
 
-___
+## Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Valsimot42&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Github Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Valsimot42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<h1 align="left">EXPERIENCE:</h1>
+
+<h2 align="left">42 WOLFSBURG: Common core projects:</h2>
 
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
@@ -25,15 +41,10 @@ ___
 |[Ft_printf](https://github.com/Valsimot42/ft_printf)|-(1)-|Recreation of printf function|100/100|C|
 |[Libft](https://github.com/Valsimot42/Libft)|-(0)-|First Library|100/100|C|
 
-___
 
 <h2 align="left">PERSONAL PROJECTS</h2>
 
-___
-
 Soon™
-
-___
 
 
 
