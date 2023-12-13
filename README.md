@@ -1,7 +1,7 @@
 ## About me:
 
 * Started coding in April 2022.
-* Croatianm, residing in Germany.
+* Croatian, residing in Germany.
 * Economic background (marketing, accounting).
 * Experienced in C/C++, aspiring to learn more.
 
