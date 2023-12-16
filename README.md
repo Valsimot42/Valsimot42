@@ -2,8 +2,7 @@
 
 * Started coding in April 2022.
 * Croatian, residing in Germany.
-* Economic background (marketing, accounting).
-* Experienced in C/C++, aspiring to learn more.
+* Background in economics (marketing, accounting).
 
 Get in contact with me here:</p> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomislav-bolkovac-223245245/)
@@ -13,15 +12,7 @@ Get in contact with me here:</p>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Valsimot42&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Github Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Valsimot42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<h1 align="left">EXPERIENCE:</h1>
+## Experience:
 
 <h2 align="left">42 WOLFSBURG: Common core projects:</h2>
 
@@ -45,6 +36,15 @@ Get in contact with me here:</p>
 <h2 align="left">PERSONAL PROJECTS</h2>
 
 Soon™
+
+## Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Valsimot42&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Github Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Valsimot42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
