@@ -11,22 +11,16 @@ Get in contact with me here:</p>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white) ![NODEJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 
-## Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Valsimot42&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Github Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Valsimot42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <h1 align="left">EXPERIENCE:</h1>
 
 <h2 align="left">42 WOLFSBURG: Common core projects:</h2>
 
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
-|[Webserv]()|-(5)-|HTTP server| /100|C++|
-|[CPP_modules](https://github.com/Valsimot42/42_CPP_Modules/tree/master)|-(4/5)-|Basics of C++| /100|C++|
+|[Transcendence](https://github.com/Valsimot42/ft_transendance)|-(6)-|Full-stack web application|121/100|JavaScript/Django|
+|[Inception](https://github.com/Valsimot42/Inception)|-(5)-|Network & System administration|100/100|Docker/VM|
+|[Webserv](https://github.com/Valsimot42/webserv)|-(5)-|HTTP server|125/100|C++|
+|[CPP_modules](https://github.com/Valsimot42/42_CPP_Modules/tree/master)|-(4/5)-|Basics of C++|100/100|C++|
 |[Cub3d](https://github.com/Valsimot42/42_cub3d)|-(4)-|Raycasting|115/100|C|
 |NetPractice|-(4)-|Networking, TCP/IP|100/100|/|
 |[Philosophers](https://github.com/Valsimot42/42_philosophers)|-(3)-|Manipulating threads|100/100|C|
@@ -39,12 +33,18 @@ Get in contact with me here:</p>
 |[Ft_printf](https://github.com/Valsimot42/ft_printf)|-(1)-|Recreation of printf function|100/100|C|
 |[Libft](https://github.com/Valsimot42/Libft)|-(0)-|First Library|100/100|C|
 
+<h2 align="left">42 WOLFSBURG: Advanced core projects:</h2>
+
+Soon™
 
 <h2 align="left">PERSONAL PROJECTS</h2>
 
 Soon™
 
+## Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Valsimot42&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
+## Github Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Valsimot42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
