@@ -1,9 +1,7 @@
 ## About me:
 
-* Started coding in April 2022.
-* Croatian, residing in Germany.
-* Economic background (marketing, accounting).
-* Experienced in C/C++, aspiring to learn more.
+* Coding since April 2022.
+* Bakcground in economics (marketing, accounting).
 
 Get in contact with me here:</p> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomislav-bolkovac-223245245/)
@@ -11,7 +9,7 @@ Get in contact with me here:</p>
 
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript]https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
 
 ## Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Valsimot42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
